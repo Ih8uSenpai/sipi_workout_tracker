@@ -1,0 +1,3 @@
+﻿Django>=3.2,<4.0
+psycopg2>=2.9
+drf-yasg
